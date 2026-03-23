@@ -4,7 +4,7 @@ An interactive Machine Learning web application that predicts the **species of a
 The application is built with **Python, Scikit-learn, and Streamlit** and provides a simple interface for users to explore predictions in real time.
 
 #### Live Demo
-🔗 [Iris Classifier on Streamlit](https://iris-flower-classification-ele9pxd4nnwnix2wsp2vwz.streamlit.app/)
+🔗 [Iris Classifier on Streamlit](https://iris-flower-classification-kqkmgx6y8gokufrbhmuwkf.streamlit.app/)
 
 #### 🚀 Live Features
 
