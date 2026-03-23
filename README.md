@@ -1,7 +1,10 @@
-### 🌸 Iris Flower Classification using Machine Learning
+### 🌸 Iris Flower Classification 
 
 An interactive Machine Learning web application that predicts the **species of an Iris flower** based on its measurements.  
 The application is built with **Python, Scikit-learn, and Streamlit** and provides a simple interface for users to explore predictions in real time.
+
+#### Live Demo
+🔗 [Iris Classifier on Streamlit](https://iris-flower-classification-app-6jen3a76xtwdconst8ygkd.streamlit.app/)
 
 #### 🚀 Live Features
 
